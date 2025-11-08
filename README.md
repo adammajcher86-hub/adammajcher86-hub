@@ -15,7 +15,6 @@ Beyond coding:
 🌱 Building a comprehensive portfolio of Web & API testing projects
 🔧 Deepening expertise in Selenium, PyTest, and REST API automation
 🚀 Implementing CI/CD pipelines with GitHub Actions
-📖 Contributing to open-source testing tools and frameworks
 
 💻 Technical Skills
 Testing & Automation
