@@ -1,6 +1,8 @@
 Hi there, I'm Adam Majcher 👋
 Software Test Engineer | Automation Specialist | Web & API Testing Enthusiast
+
 👨‍💻 About Me
+
 I'm a passionate Software Test Engineer with 10+ years of experience in quality assurance across automotive, medical, and telecommunications domains. Based in Szczecin, Poland, I specialize in test automation, integration testing, and building robust testing frameworks.
 Currently at GlobalLogic, I'm working on OTA modules for automotive and medical projects while actively learning Web & API Testing. I believe in writing clean, maintainable test code and leveraging automation to improve software quality.
 Beyond coding:
@@ -48,6 +50,7 @@ Unit Testing
 Manual & Automated Testing
 
 🚀 Featured Projects
+
 🌐 Web Testing Projects
 Coming soon! Currently building a portfolio of web automation projects using Selenium and PyTest.
 🔌 API Testing Projects
@@ -56,6 +59,8 @@ Coming soon! Developing REST API test suites with Python and Postman collections
 Planning to showcase custom testing frameworks and utilities I've developed.
 
 🎓 Education
+
 Bachelor's Degree in Computer Science
 West Pomeranian University of Technology, Szczecin (2015-2018)
+
 📫 Let's Connect!
