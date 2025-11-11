@@ -12,8 +12,8 @@ Beyond coding:
 
 🎯 Current Focus
 
-🌱 Building a comprehensive portfolio of Web & API testing projects
-🔧 Deepening expertise in Selenium, PyTest, and REST API automation
+🌱 Building a comprehensive portfolio of Web & API testing and other projects
+🔧 Deepening expertise in Selenium, PyTest, and REST API automation and other projects
 🚀 Implementing CI/CD pipelines with GitHub Actions
 
 💻 Technical Skills
