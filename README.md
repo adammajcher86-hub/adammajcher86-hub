@@ -30,7 +30,7 @@ Programming Languages
 
 Python
 Java
-C/C++
+C++
 
 Tools & Technologies
 
